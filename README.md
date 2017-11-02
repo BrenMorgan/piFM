@@ -11,9 +11,7 @@ sudo python
 
 Now connect a 70cm (optimally, ~20cm will do) or so plain wire to GPIO 4 (which is pin 7 on header P1) to act as an antenna, and tune an FM radio to 103.3Mhz.
 
-Download the module here:
 
-    [Download Now!]
 
 (this contains both source and a ready to go binary. Just run the above code in the same folder. The antenna is optional, but range is reduced from ~100 meters to ~10cm without the antenna. The sound file must be 16 bit mono wav format. )
 New! Now with stereo
